@@ -8,9 +8,9 @@ tags:
 layout: '@layouts/ArticleLayout.astro'
 ---
 
-In the last decade, desktop [page weight has increased](https://almanac.httparchive.org/en/2022/page-weight#fig-6) by **221%** (2,315 KB in June 2022) and mobile page weight has increased by a whopping **594%** (2,020 KB in June 2022). It is clear that page loading time affects user experience, especially on slower mobile connections. However, many overlook the environmental impact of storing and transmitting all this data. Data centres require energy to operate, and this is becoming a major issue. As the [Sustainable Web Manifesto](https://www.sustainablewebmanifesto.com) states, “If the Internet were a country, it would be the sixth largest polluter.”
+In the last decade, desktop [page weight has increased](https://almanac.httparchive.org/en/2022/page-weight#fig-6) by **221%** (2,315 KB in June 2022) and mobile page weight has increased by a whopping **594%** (2,020 KB in June 2022). It’s clear that page loading time affects user experience, especially on slower mobile connections. However, many overlook the environmental impact of storing and transmitting all this data. Data centres require energy to operate, and this is becoming a major issue. As the [Sustainable Web Manifesto](https://www.sustainablewebmanifesto.com) states, “If the Internet were a country, it would be the sixth largest polluter.”
 
-Images account for roughly [50% of a web page's size](https://almanac.httparchive.org/en/2022/page-weight#fig-8), making them the most obvious place to start optimising. Many modern techniques for optimising image delivery are available, such as responsive image tools and newer file types like WEBP. 
+Images account for roughly [50% of a web page's size](https://almanac.httparchive.org/en/2022/page-weight#fig-8), making them the most obvious place to start optimising. 
 
 ## Wasteful Wordpress
 
