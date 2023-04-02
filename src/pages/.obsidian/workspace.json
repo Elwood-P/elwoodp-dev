@@ -11,24 +11,15 @@
             "id": "530fa78691252ce0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "7b951e30a141750c",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "projects/rowan-ecommerce.md",
+                "file": "articles/improving-wordpress-image-handling.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "projects/rowan-ecommerce.md",
+                "file": "articles/improving-wordpress-image-handling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "projects/rowan-ecommerce.md",
+                "file": "articles/improving-wordpress-image-handling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/rowan-ecommerce.md"
+                "file": "articles/improving-wordpress-image-handling.md"
               }
             }
           }
@@ -164,8 +155,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b951e30a141750c",
+  "active": "530fa78691252ce0",
   "lastOpenFiles": [
+    "projects/rowan-ecommerce.md",
     "projects/recipe-cards.md",
     "projects/kimba-design.md",
     "projects/elwoodp-dev.md",
@@ -173,7 +165,6 @@
     "projects/toddler-timer.md",
     "projects/fun-with-fetch.md",
     "projects/responsive-images-wordpress.md",
-    "projects/rowan-ecommerce.md",
     "articles/test-draft.md",
     "articles/create-listener-middleware.md",
     "Sustainability Meets Searchability.md",
