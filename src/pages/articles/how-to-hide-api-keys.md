@@ -1,5 +1,5 @@
 ---
-date: 02 Feb 2022
+date: 02 Aug 2022
 title: Hiding API Keys on Netlify
 description: Insert description here
 tags:

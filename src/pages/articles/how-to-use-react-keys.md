@@ -1,5 +1,5 @@
 ---
-date: 13 Dec 2022
+date: 13 Sep 2022
 title: How to Avoid Bad Advice – React Keys
 description: How to avoid bad programming advice using my experience with React Keys as an example.
 tags:

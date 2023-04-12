@@ -1,5 +1,5 @@
 ---
-date: 02 Jan 2022
+date: 02 Feb 2022
 title: Tidying Tailwind
 description: I like many things about Tailwind, and the utility-first CSS approach but one of the obvious criticisms is how unwieldy it looks in your HTML.
 tags:

@@ -20,6 +20,7 @@ readme = readme.replaceAll('- [ ]', '- <span class="todo"></span>'); // Remove m
     <div>
       <ProjectContentToolbar sourceUrl={content.sourceUrl} liveUrl={content.liveUrl}/>
       <MarkdownWrapper>
+        { content.imageUrl && <img src={`${content.imageUrl}?q=90&amp;auto=format&amp&w=1440`} />}
         <Markdown content={readme} />
       </MarkdownWrapper>
     </div>

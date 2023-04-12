@@ -1,5 +1,5 @@
 ---
-date: 21 Dec 2022
+date: 15 Feb 2023
 title: Using Local Storage with Redux Toolkit
 description: Using local storage with redux toolkit – createListenerMiddleware
 tags:

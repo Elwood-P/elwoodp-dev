@@ -24,7 +24,7 @@
     }
   }
 
-  /* Asides                                                    */
+  /* Asides                                                    */ 
   /* --------------------------------------------------------- */
 
   article :global(aside),
@@ -63,6 +63,9 @@
     &:before {
       border-radius: 100px;
       background-clip: padding-box;
+    }
+    & > :global(* + *) {
+      margin-top: toRem(12px);
     }
   }
 
